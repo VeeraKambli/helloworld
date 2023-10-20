@@ -3,5 +3,6 @@
 voidmain()
 {
 printf("hello world")
+printf("basic c program")
   getch()
 }
